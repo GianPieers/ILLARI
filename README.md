@@ -1,4 +1,4 @@
-# OCEANIA-2.0
+# ILLARI
 # NASA Space Apps Challenge 2021
 ## RESUMEN 
 ## MOCKUPS  
