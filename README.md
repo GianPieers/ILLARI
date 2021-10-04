@@ -16,3 +16,6 @@ Utilizamos Pacific_Law_plastic_1.csv  Obtenida de MARINE GEOSCIENCE DATA SYSTEM
 Link: https://www.marine-geo.org/tools/search/Files.php?data_set_uid=21255
 Se limpió la data, eliminando espacios en blanco y datos innecesarios 
 
+## APP MOBIL 
+El app Mobil se realizó en App Inventor, para el prototipo de las interfaces y el del mapa. 
+LINK DE LA HERRAMIENTA: https://appinventor.mit.edu/
