@@ -12,6 +12,7 @@ LINK: https://miro.com/welcomeonboard/eUZGTDE3Y2JWMjdXNHVhOW9SaXFselF0QkFVazRtdX
 Se utlizó el software WEKA EXPLORER para realizar el aprendizaje supervisado.
 Se utlizó el algoritmo Random Forest para la regresion y clasificacion de plasticos en el mar
 ## DATA  
-Utilizamos Pacific_Law_plastic_1.csv 
+Utilizamos Pacific_Law_plastic_1.csv  Obtenida de MARINE GEOSCIENCE DATA SYSTEM
+Link: https://www.marine-geo.org/tools/search/Files.php?data_set_uid=21255
 Se limpió la data, eliminando espacios en blanco y datos innecesarios 
 
